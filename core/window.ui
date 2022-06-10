@@ -303,6 +303,22 @@
    </widget>
   </widget>
  </widget>
+ <tabstops>
+  <tabstop>lineEdit</tabstop>
+  <tabstop>toolButton</tabstop>
+  <tabstop>btnAtualizar</tabstop>
+  <tabstop>comboBoxSep</tabstop>
+  <tabstop>comboBoxDecimal</tabstop>
+  <tabstop>checkBoxPlotar</tabstop>
+  <tabstop>listFiles</tabstop>
+  <tabstop>radioButtonASTM</tabstop>
+  <tabstop>radioButtonEnergia</tabstop>
+  <tabstop>checkBoxHTML</tabstop>
+  <tabstop>checkBoxCSV</tabstop>
+  <tabstop>checkBoxPDF</tabstop>
+  <tabstop>checkBoxSVG</tabstop>
+  <tabstop>btnCalcular</tabstop>
+ </tabstops>
  <resources/>
  <connections/>
 </ui>
